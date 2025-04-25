@@ -12,16 +12,16 @@ Envolve a criação de dataset fictício contendo cerca de 700 mil registros, o 
 
 ### III. Skills e Conhecimentos empregados
 As seguintes ferramentas/conhecimentos foram utilizadas neste projeto:
-• Sublime Text
-• Python – framework Spark
+* Sublime Text
+* Python – framework Spark
 
 ### IV. Etapas
-• Criação de dataset fictício (ChatGPT)
-• Desenvolvimento de script em Python, contendo:
-  • Criação do SparkContext
-  • Criação do dataframe Spark
-	• ETL e análises
-• Publicação do projeto no GitHub
+* Criação de dataset fictício (ChatGPT)
+* Desenvolvimento de script em Python, contendo:
+  * Criação do SparkContext
+  * Criação do dataframe Spark
+  * ETL e análises
+* Publicação do projeto no GitHub
 
 ### V. Considerações
 O grande foco deste projeto é o uso do framework Spark com uma variedade de métodos disponíveis para um dataframe spark, demonstrando o potencial do processamento distribuído aplicado a grandes volumes de dados.
