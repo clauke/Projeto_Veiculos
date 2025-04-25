@@ -27,4 +27,4 @@ As seguintes ferramentas/conhecimentos foram utilizadas neste projeto:
 O grande foco deste projeto é o uso do framework Spark com uma variedade de métodos disponíveis para um dataframe spark, demonstrando o potencial do processamento distribuído aplicado a grandes volumes de dados.
 
 ### VI. Arquivos do Projeto
-Para replicar este projeto, baixe os arquivos dataset.csv e Projeto_Veiculos.ipynb.
+Para replicar este projeto, baixe os arquivos Amostra_dataset.csv (contém 50 mil registros) e Projeto_Veiculos.ipynb.
